@@ -1,12 +1,18 @@
 apiVersion: v1
 entries:
   captain:
-  - appVersion: "2.0"
-    created: 2019-07-26T17:35:30.628387981+08:00
+  - created: 2019-07-26T22:24:07.446714+08:00
+    description: A Helm3 Controller
+    digest: 64241f3ba357a85fef118f1b7f0bcb9ee6d8a073bf95e7bf0a3204d0353dab2d
+    name: captain
+    urls:
+    - https://alauda.github.io/charts/captain-v2.2-b.2.tgz
+    version: v2.2-b.2
+  - created: 2019-07-26T22:24:07.444496+08:00
     description: A Helm3 Controller
     digest: ea08826efbd2f46c3ddce98d59960db4c17c75f8824bf9964dbbd752a2abde3c
     name: captain
     urls:
     - https://alauda.github.io/charts/captain-v2.2-b.1.tgz
     version: v2.2-b.1
-generated: 2019-07-26T17:35:30.627023005+08:00
+generated: 2019-07-26T22:24:07.433513+08:00
